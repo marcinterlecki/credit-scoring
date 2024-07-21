@@ -1,0 +1,10 @@
+# Określenie, że wszystkie pliki .sas są języka SAS
+*.sas linguist-language=SAS
+
+# Oznaczenie wszystkich plików HTML jako generowanych
+*.html linguist-generated
+
+# Ignorowanie typowych katalogów z plikami nie związanymi z SAS
+vendor/**/* linguist-vendored
+docs/**/* linguist-documentation
+node_modules/**/* linguist-vendored
