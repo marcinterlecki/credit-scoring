@@ -1,0 +1,12 @@
+act_ccss_n_loan Actual customer loan number of Css product
+
+ags3_Max_CMaxC_Due Max calculated on last 3 months on Maximum Customer due for Css product
+
+act_cins_n_statB Customer historical number of finished loans with status B on product css
+
+act_cins_n_loans_hist Customer historical number of loans on product ins
+
+app_char_gender Gender
+
+
+
